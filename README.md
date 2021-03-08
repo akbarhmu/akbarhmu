@@ -3,7 +3,7 @@
 
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/hamaminatu)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/hamaminatu)
-[![](https://img.icons8.com/material-two-tone/24/000000/telegram-app.png)](https://t.me/hamaminatu)
+[![](https://img.icons8.com/material-two-tone/32/000000/telegram-app.png)](https://t.me/hamaminatu)
 
 </span>
 
