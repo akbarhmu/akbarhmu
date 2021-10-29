@@ -12,7 +12,7 @@
 <div>
 
 - 🔭 I’m *currently* **sleeping** 😴, **studying** 📚, or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning Kotlin, ReactJS, Laravel.
+- 🌱 I’m currently learning Kotlin and Laravel.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.
@@ -23,7 +23,6 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=Codeigniter)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
