@@ -20,18 +20,17 @@
 
 </div>
 
-**Frameworks and Stack**
+**I speaks**
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=Java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=Codeigniter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-**Languages**
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
