@@ -1,9 +1,10 @@
 <span align="center">
  <h1>Hi there, I am Akbar 👨‍💻 </h1>
 
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/hamaminatu)
+[![](https://img.icons8.com/material-two-tone/344/domain--v2.png)](https://ngoding.id)
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/akbarhmu)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/hamaminatu)
-[![](https://img.icons8.com/material-two-tone/32/000000/telegram-app.png)](https://t.me/hamaminatu)
+[![](https://img.icons8.com/material-two-tone/32/000000/telegram-app.png)](https://t.me/akbarhmu)
 
 </span>
 
